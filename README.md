@@ -23,11 +23,14 @@ npx create-expo-app -t expo-template-blank-typescript
 7) Create the types.ts file for the RootStackParams list outside the screens folder.
 
 Once the steps above have been complete, replace the code and declare all missing NPM installations in an INTEGRATED TERMINAL!
+
 First:
+
 npm install @react-navigation/native @react-navigation/native-stack
 npm install react-native-screens react-native-safe-area-context
 
 Second:
+
 npm install @react-native-picker/picker@2.7.5
 npm install react-native-safe-area-context@4.10.5
 npm install react-native-screens@3.31.1
