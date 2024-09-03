@@ -15,12 +15,12 @@ STEPS:
 3) Once the root folder is opened, open a terminal and enter the following: 
 npx create-expo-app -t expo-template-blank-typescript
 
-4)once prompt with a name enter the following again:
+4) Once prompt with a name enter the following again:
 (Name Surname_Student Number_MAST Part2)
 
-5)Once the above steps have been complete your environment is now set up. create a folder and call it screens
-6)Declare the .tsx screen pages inside the screens folder (there should only be three)
-7)Create the types.ts file for the RootStackParams list outside the screens folder.
+5) Once the above steps have been complete your environment is now set up. create a folder and call it screens
+6) Declare the .tsx screen pages inside the screens folder (there should only be three)
+7) Create the types.ts file for the RootStackParams list outside the screens folder.
 
 Once the steps above have been complete, replace the code and declare all missing NPM installations in an INTEGRATED TERMINAL!
 First:
