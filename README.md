@@ -36,3 +36,18 @@ npm install react-native-safe-area-context@4.10.5
 npm install react-native-screens@3.31.1
 npm install typescript@~5.3.3
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PART3:
+
+Step 1) Look for changes made to part 2 project under "part3" commit message. (types.ts, and screens. (home screen and filter screen))
+
+Step 2) problem solve the filter screen. you can make use of the buttons i have used, however better practice should make use of a picker/ drop down.
+
+Step 3) make changes to the UI from part2, and document the changes you have made (tip- simplicity is key... small simple changes make the UI look better and more clean (dont have too much going on in the UI designs))
+
+Step 4) Make sure you can check off the rest of rubric requirements....
+
+Step 5) Document document document.... the more i can see the easier I can mark :)
+
+Good luck for part3- if you follow the steps above there is no reason you cant get a distinction :)
